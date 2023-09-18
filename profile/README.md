@@ -1,4 +1,4 @@
-![xpanse Banner](../images/banner.png)
+![xpanse Banner](/images/banner.png)
 
 ## Get Involved
 
