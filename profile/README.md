@@ -7,8 +7,7 @@ There are several ways to get involved in the eclipse-xpanse project. Use these 
 * Read the [First Timers Support Guide](https://eclipse.dev/xpanse/docs/Contribute/new-developers)
 * Learn how to [Sign the Eclipse Contributor Agreement](https://eclipse.dev/xpanse/docs/Contribute/new-developers#signing-the-eca)
 * View our [Demos](https://eclipse.dev/xpanse/docs/FurtherReading/demos)
-* Join our [Slack](https://eclipse-xpanse.slack.com/) channel.
-
+* Join our [Matrix](https://matrix.to/#/#eclipse-xpanse:matrix.eclipse.org) space.
 
 Visit [eclipse.dev/xpanse](https://eclipse.dev/xpanse) to learn more!
 
